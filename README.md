@@ -14,15 +14,14 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 <h3> Listado de material de aprendisaje: </h3>
 <form>
      <label>
-          <input type="chevkbox" name="languages" value=Listado_Aprendisaje>  
+          <input type="checkbox" name="languages" value=Listado_Aprendisaje>  
           IA
      </label>    
    <label>
-          <input type="chevkbox" name="aprendisaje" value=Aprendisaje>  
+          <input type="checkbox" name="aprendisaje" value=Aprendisaje>  
           Aprendisaje
      </label>  
 </form>
 
 
   
-</p>  
