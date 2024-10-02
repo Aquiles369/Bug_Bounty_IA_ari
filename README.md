@@ -9,13 +9,13 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 
 
-<h3> Listado de material de aprendisaje: </h3>
+<h3> Listado de material de aprendizaje: </h3>
 
-- :file_folder:(Divido por diferentes tipos de formatoS de aprendisaje):
-- Aprendisaje, IMG
-- Aprendisaje, PDF
-- Aprendisaje, Video
-- Aprendisaje. Otros
+- :file_folder:(Divido por diferentes tipos de formatoS de aprendizaje):
+- Aprendizaje, IMG
+- Aprendizaje, PDF
+- Aprendizaje, Video
+- Aprendizaje. Otros
 
  <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
  <br>
