@@ -25,3 +25,12 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 <h3>Configuration 🔧 </h3>  <br>
 <h3>Demo simple🎥</h3> <br>
 <h3>check list para seguir agregando🧙‍♂️</h3> <br>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Change tool operation to parameters.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Improve the use of Notify.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox custom-cursor-default-hover"> Add new interesting tools to find more vulnerabilities.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Save results in other formats.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Save the results in a document as a report.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> Check if the emails found by the tool are leaked.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Integrate RobotScraper.</li>
+</ul>
