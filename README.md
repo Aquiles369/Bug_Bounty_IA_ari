@@ -7,3 +7,22 @@
 En este repo, encontraras una IA especializada en "Bug bounty" creada y aliementada con calidad Diversos  recursos, tantos como txt, img, videos, etc , todo el material de estudio de mas de 5 años.
 </p>  
 <br>
+
+<br>
+
+
+<h3> Listado de material de aprendisaje: </h3>
+<form>
+     <label>
+          <input type="chevkbox" name="languages" value=Listado_Aprendisaje>  
+          IA
+     </label>    
+   <label>
+          <input type="chevkbox" name="aprendisaje" value=Aprendisaje>  
+          Aprendisaje
+     </label>  
+</form>
+
+
+  
+</p>  
