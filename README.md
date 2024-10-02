@@ -10,7 +10,6 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <br>
 
-
 <h3> Listado de material de aprendisaje: </h3>
 <form>
      <label>
