@@ -5,13 +5,15 @@
 <p>  
 En este repo, encontraras una IA especializada en "Bug bounty" creada y aliementada con calidad Diversos  recursos, tantos como txt, img, videos, etc , todo el material de estudio de mas de 5 años.
 </p>  
+ <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
+ <br>
 <br>
 
 
 
 <h3> Listado de material de aprendizaje: </h3>
 
-- :file_folder:(Divido por diferentes tipos de formatoS de aprendizaje):
+- :file_folder:(Divido por diferentes tipos de formatos de aprendizaje):
 - Aprendizaje, IMG
 - Aprendizaje, PDF
 - Aprendizaje, Video
