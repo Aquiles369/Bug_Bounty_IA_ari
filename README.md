@@ -17,7 +17,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
           <input type="checkbox" name="languages" value=Listado_Aprendisaje>  
           IA
      </label>    
-   <label>
+     <label>
           <input type="checkbox" name="aprendisaje" value=Aprendisaje>  
           Aprendisaje
      </label>  
