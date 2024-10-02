@@ -21,12 +21,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
  <br>
 
 
-<h3>Instalacion🔨</h3>
-<p>
-  El fragmento de código Javascript <code>console.log("Hola")</code> sirve para
-  mostrar un mensaje por la consola del navegador.
-</p>
-<p>
-  La etiqueta <code>&lt;code&gt;</code> se utiliza en HTML para
-  indicar fragmentos de código cortos, en línea.
-</p>
+<h3>Instalacion🔨</h3> <br>
+<h3>Configuration 🔧 </h3>  <br>
+<h3>Demo simple🎥</h3> <br>
+<h3>check list para seguir agregando🧙‍♂️</h3> <br>
