@@ -34,18 +34,17 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
   
 - Todo estos materiales de estudio etc, se encuentra en la Carpeta llamada Aprendizaje_de_ari se divide en subcarpetas IMG,PDF, VIDEO,OTROS.
 
- <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
  <br>
 <hr> 
 
 <h3> Benificios de utilizar IA llamada ari: </h3>
-- Tener la velocidad y calidad de informacion que uno necesita.
-- Es Local, tieniendo los benificios.
-- Consumo bajo de recursos -_- 16 de ram aprox
-- Gratis uso ilimitado.
-- Podes entrenarla alimentando su aprendizaje de ari.
+- Tener la velocidad y calidad de informacion que uno necesita. <br>
+- Es Local, tieniendo los benificios. <br>
+- Consumo bajo de recursos -_- 16 de ram aprox <br>
+- Gratis uso ilimitado. <br>
+- Podes entrenarla alimentando su aprendizaje de ari. <br>
 - Especializada en todo lo relacionado con Bug bounty, programacion Front-Back como hacking, hardering para enteder por que no explota dicho payload, Bypass de diferentes Wafs y de 
-  payload dependiendo claro cada vulnerabilidad web. 
+  payload dependiendo claro cada vulnerabilidad web.  
 <hr> 
  <br>
  
@@ -54,5 +53,5 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 <h3>Demo simple🎥</h3> <br>
 <h3>check list para seguir agregando🧙‍♂️</h3> <br>
 
-
+ <br>
 
