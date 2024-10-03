@@ -10,7 +10,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
  2- 🙊Su uso en Local permite usarla super rapido solo consume 16 ram.<br>
 
- 3- 🙊Diferentes formatos de parendizaje, algunos de ellos, pdf, img, videos, audios, etc programacion front-end y como back-end, para que tenga ademas del bug bounty se especialize tambien en programacion web, entre otros agregados como Bypass de diferentes vuln web, hardering para entender mejor el por que no explota la carga util, etc y mucho mas.<br>
+ 3- 🙊Diferentes formatos de aprendizaje, algunos de ellos, pdf, img, videos, audios, etc programacion front-end y como back-end, para que tenga ademas del bug bounty se especialize tambien en programacion web, entre otros agregados como Bypass de diferentes vuln web, hardering para entender mejor el por que no explota la carga util, etc y mucho mas.<br>
 
 <br>
 <hr> 
