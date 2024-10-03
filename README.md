@@ -31,6 +31,8 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 - 🧙‍♂️Aprendizaje, PDF
 - 🧙‍♂️Aprendizaje, Video
 - 🧙‍♂️Aprendizaje. Otros
+  
+- Todo estos materiales de estudio etc, se encuentra en la Carpeta llamada Aprendizaje_de_ari se divide en subcarpetas IMG,PDF, VIDEO,OTROS.
 
  <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
  <br>
