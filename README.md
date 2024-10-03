@@ -15,7 +15,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 <br>
 <hr> 
 👀¿ Cuál es el proposita de Ari mi loba ?:👀
-- Ari, sera como una guia para ir mirando y chequeando, es como un maestro te responde a tus dudas te enseña el por que de las cosas,Un Saludo al mi mentor el TioRueda, retomando lo anterior seguimos,  para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
+- Ari, sera como una guia para ir mirando y chequeando, es como un maestro te responde a tus dudas te enseña el por que de las cosas,Un Saludo a mi mentor el TioRueda, retomando lo anterior seguimos,  para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
 <hr> 
 
 <br>
