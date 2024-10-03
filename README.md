@@ -12,7 +12,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
  3- 🙊Diferentes formatos de aprendizaje, algunos de ellos, pdf, img, videos, audios, etc programacion front-end y como back-end, para que tenga ademas del bug bounty se especialize tambien en programacion web, entre otros agregados como Bypass de diferentes vuln web, hardering para entender mejor el por que no explota la carga util, etc y mucho mas.<br>
 
-4- Se utiliza la herramienta de GPT4ALL, para poder integrar facilmente el modelo de lenjuague de ari.
+4- 🙊Se utiliza la herramienta de GPT4ALL, para poder integrar facilmente el modelo de lenjuague de ari.
 <br>
 <hr> 
 👀¿ Cuál es el proposita de Ari mi loba ?:👀
