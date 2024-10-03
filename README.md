@@ -1,5 +1,5 @@
 <h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369 " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1></p><br>
-
+<hr> 
 
 - :file_folder:(Bug_Bounty_IA_ari)💥
 <p>  
@@ -10,11 +10,12 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
  2) Su uso en Local permite usarla super rapido solo consume 16 ram.<br>
 
  3) Diferentes formatos de parendizaje, algunos de ellos, pdf, img, videos, audios, etc programacion front-end y como back-end, para que tenga ademas del bug bounty se especialize tambien en programacion web, entre otros agregados como Bypass de diferentes vuln web, hardering para entender mejor el por que no explota la carga util, etc y mucho mas.<br>
-
+<hr> 
 <br>
 
 Cual es el proposita de Ari mi loba:
-
+- Ari, sera como una guia para ir mirando y chequeando, para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
+<hr> 
 
 <br>
 
