@@ -5,14 +5,15 @@
 <p>  
 En este repo, encontraras una IA especializada en "Bug bounty" creada y aliementada con calidad Diversos  recursos, tantos como txt, img, videos, etc , todo el material de estudio de mas de 5 años.<br></p>  
  <h2> 💥Caracteristicas Principales de esta IA especializada en Bug bounty y pentesting, programacion todo oreintado a la parte Web.</h2>
- 1- Esta IA cuenta con el modelo de Mistral 7B, el modelo de lenguaje más poderoso para su tamaño hasta la fecha. se compara con GPT 3.5 esta bien potente y algo importante de nombrar es que es Gratis.<br>
+ 1- Esta IA cuenta con el modelo de Mistral 7B, el modelo de lenguaje más poderoso para su tamaño hasta la fecha. se compara con GPT 3.5 esta bien potente y algo importante de nombrar es que es Gratis.<br><br>
+
 
  2- Su uso en Local permite usarla super rapido solo consume 16 ram.<br>
 
  3- Diferentes formatos de parendizaje, algunos de ellos, pdf, img, videos, audios, etc programacion front-end y como back-end, para que tenga ademas del bug bounty se especialize tambien en programacion web, entre otros agregados como Bypass de diferentes vuln web, hardering para entender mejor el por que no explota la carga util, etc y mucho mas.<br>
-<hr> 
-<br>
 
+<br>
+<hr> 
 👀¿ Cuál es el proposita de Ari mi loba ?:👀
 - Ari, sera como una guia para ir mirando y chequeando, para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
 <hr> 
