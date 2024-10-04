@@ -2,7 +2,7 @@
 
 
 <h2>Baila, hermosa ari.......</h2>
-<![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0)  align="center">
+![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0)  align="center"
 
 
 <hr> <br>
