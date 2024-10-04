@@ -36,12 +36,12 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <h2> Listado de material de aprendizaje: </h2>
 
-<h2> 🧙‍♂Divido por diferentes tipos de formatos de aprendizaje</h2>
+<h3> 🧙‍♂Divido por diferentes tipos de formatos de aprendizaje🧙‍♂</h3>
 - 🧙‍♂️Aprendizaje, IMG<br>
 - 🧙‍♂️Aprendizaje, PDF<br>
 - 🧙‍♂️Aprendizaje, Video<br>
 - 🧙‍♂️Aprendizaje. Otros<br>
-  
+  <br>
 - Todo estos materiales de estudio etc, se encuentra en la Carpeta llamada Aprendizaje_de_ari se divide en subcarpetas IMG,PDF, VIDEO,OTROS.
 <h2>🤖La mente de mi hermosa, ari: </h2>
 <p align="center">
