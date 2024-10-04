@@ -24,6 +24,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <br>
 
+[ari.md](https://github.com/user-attachments/files/17256069/ari.md)
 
 
  <br>
