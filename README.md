@@ -2,19 +2,6 @@
 </h1></h1></p>
 <br>
 
-<p align="center" dir="auto">
-  <a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari/">
-    <img src="https://camo.githubusercontent.com/da105b189e3c70fe16e58f109175a163e6eb05364b320932e87e665d0efe3062/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f726f626f747368656c6c2f6d616769637265636f6e3f696e636c7564655f70726572656c6561736573" style="max-width: 100%;">
-  </a>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/94fde40c724c45d6111b700ca9d643c99bfe94989cbefbb963ed062b74e41db5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://github.com/Aquiles369/Bug_Bounty_IA_ari" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari/commits/">
-    <img src="https://camo.githubusercontent.com/9e551cd6871945d3e3e943bd5c6577dde53840fb48eb941ae69f506f67a6ba76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f626f747368656c6c2f6d616769637265636f6e" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari/commits/">
-    
-</p>
 
 
 Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) 
