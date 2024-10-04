@@ -9,9 +9,6 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow">
     <img src="https://camo.githubusercontent.com/94fde40c724c45d6111b700ca9d643c99bfe94989cbefbb963ed062b74e41db5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://github.com/Aquiles369/Bug_Bounty_IA_ari" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/robotshell/magicRecon/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://camo.githubusercontent.com/cfbe667867df0099c382e2242fdfb03ab2b04b522d18d66c9b3d929f2e4abc29/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/issues-closed/robotshell/magicrecon" style="max-width: 100%;">
-  </a>
   <a href="https://github.com/robotshell/magicRecon/commits/master">
     <img src="https://camo.githubusercontent.com/9e551cd6871945d3e3e943bd5c6577dde53840fb48eb941ae69f506f67a6ba76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/last-commit/robotshell/magicrecon" style="max-width: 100%;">
   </a>
