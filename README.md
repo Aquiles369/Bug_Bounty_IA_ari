@@ -2,7 +2,26 @@
 </h1></h1></p>
 <br>
 
-
+<p align="center" dir="auto">
+  <a href="https://github.com/robotshell/magicRecon/releases">
+    <img src="https://camo.githubusercontent.com/da105b189e3c70fe16e58f109175a163e6eb05364b320932e87e665d0efe3062/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f726f626f747368656c6c2f6d616769637265636f6e3f696e636c7564655f70726572656c6561736573" data-canonical-src="https://img.shields.io/github/v/release/robotshell/magicrecon?include_prereleases" style="max-width: 100%;">
+  </a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/94fde40c724c45d6111b700ca9d643c99bfe94989cbefbb963ed062b74e41db5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/license/robotshell/magicrecon" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/robotshell/magicRecon/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://camo.githubusercontent.com/cfbe667867df0099c382e2242fdfb03ab2b04b522d18d66c9b3d929f2e4abc29/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d636c6f7365642f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/issues-closed/robotshell/magicrecon" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/robotshell/magicRecon/commits/master">
+    <img src="https://camo.githubusercontent.com/9e551cd6871945d3e3e943bd5c6577dde53840fb48eb941ae69f506f67a6ba76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/last-commit/robotshell/magicrecon" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/robotshell/magicRecon/commits/master">
+    <img src="https://camo.githubusercontent.com/88ac1e4cd08a94b67ccaf973a723e1d9c6b024924273a6f14ee15cbf5de6c92d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f64652d73697a652f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/languages/code-size/robotshell/magicrecon" style="max-width: 100%;">
+  </a>
+  <a href="/robotshell/magicRecon/blob/master">
+    <img src="https://camo.githubusercontent.com/5de0e9522decea06ee0dcbe0289bc82022b780a7e8cb4b33646ce567c5c16af7/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f726f626f747368656c6c643f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/robotshelld?style=social" style="max-width: 100%;">
+  </a>
+</p>
 
 
 Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) 
