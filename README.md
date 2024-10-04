@@ -34,7 +34,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
  <br>
 
-<h3> Listado de material de aprendizaje: </h3>
+<h2> Listado de material de aprendizaje: </h2>
 
 - :file_folder:(🧙‍♂️Divido por diferentes tipos de formatos de aprendizaje🧙‍♂️):
 - 🧙‍♂️Aprendizaje, IMG
@@ -43,7 +43,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 - 🧙‍♂️Aprendizaje. Otros
   
 - Todo estos materiales de estudio etc, se encuentra en la Carpeta llamada Aprendizaje_de_ari se divide en subcarpetas IMG,PDF, VIDEO,OTROS.
-<h3>🤖La mente de mi hermosa, ari: </h3>
+<h2>🤖La mente de mi hermosa, ari: </h2>
 <p align="center">
 
  ![cerebro](https://github.com/user-attachments/assets/d88fb21c-d2df-4e69-a80b-565e359a0905)
@@ -51,7 +51,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 </p>
 <hr> 
 
-<h3>🤖Benificios de utilizar ari:🤖</h3>
+<h2>🤖Benificios de utilizar ari:🤖</h2>
 - 🤖Tener la velocidad y calidad de informacion que uno necesita. <br>
 - 🤖Es Local, tieniendo los benificios. <br>
 - 🤖Consumo bajo de recursos -_- 16 de ram aprox <br>
