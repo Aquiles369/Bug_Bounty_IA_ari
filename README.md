@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img  height="280rem" alt="GIF" src="![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) " />
+ <img  height="280rem" alt="GIF" src="]https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0 " />
 
 </p>
 <p align="center">
