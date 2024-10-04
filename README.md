@@ -1,4 +1,5 @@
-<h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"></h1></h1></p><br>
+<h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"></h1></h1></p><img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 
 Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) 
