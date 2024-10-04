@@ -12,12 +12,8 @@
   <a href="https://github.com/robotshell/magicRecon/commits/master">
     <img src="https://camo.githubusercontent.com/9e551cd6871945d3e3e943bd5c6577dde53840fb48eb941ae69f506f67a6ba76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/last-commit/robotshell/magicrecon" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/robotshell/magicRecon/commits/master">
+  <a href="https://github.com/Aquiles369/Bug_Bounty_IA_ari/commits/">
     <img src="https://camo.githubusercontent.com/88ac1e4cd08a94b67ccaf973a723e1d9c6b024924273a6f14ee15cbf5de6c92d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f636f64652d73697a652f726f626f747368656c6c2f6d616769637265636f6e" data-canonical-src="https://img.shields.io/github/languages/code-size/robotshell/magicrecon" style="max-width: 100%;">
-  </a>
-  <a href="/robotshell/magicRecon/blob/master">
-    <img src="https://camo.githubusercontent.com/5de0e9522decea06ee0dcbe0289bc82022b780a7e8cb4b33646ce567c5c16af7/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f726f626f747368656c6c643f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/robotshelld?style=social" style="max-width: 100%;">
-  </a>
 </p>
 
 
