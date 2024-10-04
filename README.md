@@ -3,14 +3,10 @@
 <br>
 
 
-<p align="center">
- <img  height="280rem" alt="GIF" src="]https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0 " />
 
-</p>
-<p align="center">
+
 Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) 
-<img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
- ![cerebro](https://github.com/user-attachments/assets/d88fb21c-d2df-4e69-a80b-565e359a0905)
+<img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 - :file_folder:(Bug_Bounty_IA_ari)💥
