@@ -25,9 +25,9 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 👀¿ Cuál es el proposita de Ari mi loba ?:👀
 - Ari, sera como una guia para ir mirando y chequeando, es como un maestro te responde a tus dudas te enseña el por que de las cosas,Un Saludo a mi mentor el TioRueda y al siempre buna onda BySepa, retomando lo anterior seguimos,  para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
 <h3> La mente de mi hermosa, ari: </h3>
-
- ![cerebro](https://github.com/user-attachments/assets/d88fb21c-d2df-4e69-a80b-565e359a0905)
-
+<p> align="center"  </p>
+      ![cerebro](https://github.com/user-attachments/assets/d88fb21c-d2df-4e69-a80b-565e359a0905)
+</p>
 <hr> 
 
 <br>
