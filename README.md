@@ -1,8 +1,8 @@
 <h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">" Saludos , Haz llegado a la Cueva de Aquiles369 " <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> <img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"> <img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </h1></p><br>
 <hr> 
- (https://github.com/user-attachments/assets/f97d4564-46e8-4e6a-8801-6586cacea614) 
- ![ari](https://github.com/user-attachments/assets/c9149dfe-9595-47e2-845f-dec7b6741584)
 
+
+![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0)![ari]
 
 - :file_folder:(Bug_Bounty_IA_ari)💥
 <p>  
@@ -24,7 +24,6 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <br>
 
-[ari.md](https://github.com/user-attachments/files/17256069/ari.md)
 
 
  <br>
