@@ -23,7 +23,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 4- 🙊Se utiliza la herramienta de GPT4ALL, para poder integrar facilmente el modelo de lenjuague de ari.
 <br>
 <hr> 
-👀¿ Cuál es el proposita de Ari mi loba ?:👀
+<h2>👀¿ Cuál es el proposita de Ari mi loba ?:👀</h2> 
 - Ari, sera como una guia para ir mirando y chequeando, es como un maestro te responde a tus dudas te enseña el por que de las cosas,Un Saludo a mi mentor el TioRueda y al siempre buna onda BySepa, retomando lo anterior seguimos,  para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
 
 <hr> 
@@ -36,7 +36,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <h2> Listado de material de aprendizaje: </h2>
 
-- :file_folder:(🧙‍♂️Divido por diferentes tipos de formatos de aprendizaje🧙‍♂️):
+<h2> 🧙‍♂Divido por diferentes tipos de formatos de aprendizaje</h2>
 - 🧙‍♂️Aprendizaje, IMG
 - 🧙‍♂️Aprendizaje, PDF
 - 🧙‍♂️Aprendizaje, Video
@@ -65,7 +65,8 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 <h3>Instalacion🔨</h3> <br>
 <h3>Configuration 🔧 </h3>  <br>
 <h3>Demo simple🎥</h3> <br>
-<h3>check list para seguir agregando🧙‍♂️</h3> <br>
-
+<h2>check list para seguir agregando🧙‍♂️</h2> <br>
+<h2>Descargo de responsabilidad</h2> <br>
+Esta herramienta está destinada únicamente a fines educativos y de investigación. El autor y los colaboradores no son responsables del uso indebido de esta herramienta. Se recomienda a los usuarios que utilicen esta herramienta de manera responsable y solo en sistemas para los que tengan permiso explícito. El acceso no autorizado a sistemas, redes o datos es ilegal y poco ético. Obtenga siempre la autorización correspondiente antes de realizar cualquier tipo de actividad que pueda afectar a otros usuarios o sistemas.
  <br>
 
