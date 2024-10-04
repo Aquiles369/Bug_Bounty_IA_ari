@@ -1,6 +1,7 @@
 <h1 align="center"><img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">" Saludos , Haz llegado a la Cueva de Aquiles369, en un rato salimos a cazar te unes con la manada o te quedas en la cueva tu decides "<img height="40" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img height="35" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1></h1></p>
 <br>
+![cerebro](https://github.com/user-attachments/assets/630796ac-bb6a-44aa-a82a-06c60fb02c0e)
 
 
 Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0) 
@@ -23,7 +24,7 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 👀¿ Cuál es el proposita de Ari mi loba ?:👀
 - Ari, sera como una guia para ir mirando y chequeando, es como un maestro te responde a tus dudas te enseña el por que de las cosas,Un Saludo a mi mentor el TioRueda y al siempre buna onda BySepa, retomando lo anterior seguimos,  para aumentar tu creatividad como la rapides en ella podes copiar y pegar codigo y te explica la manera de explotar con sus diferentes bypass y donde se encuentra dichas vul web en que funciones etc, es una chulada. 
 <h3> La mente de mi hermosa, ari: </h3>
- ![ari](https://github.com/user-attachments/assets/12e35767-4a2e-4145-8965-ab7f894f6b1c) ![ari]
+
 
 <hr> 
 
