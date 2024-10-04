@@ -2,7 +2,7 @@
 <hr> 
 
 
-![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0)
+ &nbsp  ![ari](https://github.com/user-attachments/assets/07940d38-e571-480f-92f3-4915f6b919d0)
 
 - :file_folder:(Bug_Bounty_IA_ari)💥
 <p>  
