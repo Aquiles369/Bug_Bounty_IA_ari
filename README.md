@@ -12,8 +12,8 @@ Baila, hermosa ari....... ![ari](https://github.com/user-attachments/assets/0794
 - :file_folder:(Bug_Bounty_IA_ari)💥
 <p>  
 En este repo, encontraras una IA especializada en "Bug bounty" creada y aliementada con calidad Diversos  recursos, tantos como txt, img, videos, etc , todo el material de estudio de mas de 5 años.<br></p>  
-<hr> 
- <h2> 💥Caracteristicas Principales de esta IA que se llama ari, especializada en Bug bounty y pentesting, programacion todo oreintado a la parte Web.</h2>
+<br>
+<h2> 💥Caracteristicas Principales de esta IA que se llama ari, especializada en Bug bounty y pentesting, programacion todo oreintado a la parte Web.</h2>
  1- 🙊Esta IA cuenta con el modelo de Mistral 7B, el modelo de lenguaje más poderoso para su tamaño hasta la fecha. se compara con GPT 3.5 esta bien potente y algo importante de nombrar es que es Gratis.<br
 
  2- 🙊Su uso en Local permite usarla super rapido solo consume 16 ram.<br>
