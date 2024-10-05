@@ -52,8 +52,8 @@ En este repo, encontraras una IA especializada en "Bug bounty" creada y aliement
 
 <h2>🤖Benificios de utilizar ari:🤖</h2>
 - 🤖Tener la velocidad y calidad de informacion que uno necesita. <br>
-- 🤖Es Local, tieniendo los benificios. <br>
-- 🤖Consumo bajo de recursos -_- 16 de ram aprox <br>
+- 🤖Es Local, teniendo los benificios. <br>
+- 🤖Consumo bajo de recursos -_- 16 de ram aprox o 8 de vram la mejor opcion calidad=rendimiento<br>
 - 🤖Gratis uso ilimitado. <br>
 - 🤖Podes entrenarla alimentando su aprendizaje de ari. <br>
 - 🤖Especializada en todo lo relacionado con Bug bounty, programacion Front-Back como hacking, hardering para enteder por que no explota dicho payload, Bypass de diferentes Wafs y de 
